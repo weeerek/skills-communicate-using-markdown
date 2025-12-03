@@ -27,3 +27,13 @@ public class Product
     public decimal Price { get; set; }
 }
 ```
+
+## Planul meu de învățare
+
+- [x] Configurat profilul GitHub
+- [x] Învățat să folosesc titluri în Markdown
+- [x] Adăugat o imagine cu text alternativ
+- [x] Inserat un bloc de cod C# sau PHP
+- [ ] Finalizat toate cursurile GitHub Skills
+- [ ] Publicat un site cu GitHub Pages
+- [ ] Construit un portofoliu personal
