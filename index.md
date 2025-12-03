@@ -18,3 +18,12 @@ Folosesc în mod regulat:
 - 🛢️ Baze de date SQL (SQL Server, MySQL)
 - 🎨 **HTML**, **CSS**, **JavaScript** – cu accent pe design minimalist și experiență utilizator
 
+
+```csharp
+public class Product
+{
+    public int Id { get; set; }
+    public string Name { get; set; } = string.Empty;
+    public decimal Price { get; set; }
+}
+```
