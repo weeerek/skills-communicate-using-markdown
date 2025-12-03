@@ -2,6 +2,8 @@
 
 Salut! Sunt un dezvoltator pasionat de web și tehnologie, mereu în căutarea de noi moduri de a învăța și crea.
 
+![O ilustrație simpatică a unui Octocat purtând ochelari](https://octodex.github.com/images/yaktocat.png)
+
 ## Hobby-uri
 
 - 📚 Citit cărți
@@ -15,3 +17,4 @@ Folosesc în mod regulat:
 - 🌐 **ASP.NET MVC** și **Entity Framework** pentru aplicații web
 - 🛢️ Baze de date SQL (SQL Server, MySQL)
 - 🎨 **HTML**, **CSS**, **JavaScript** – cu accent pe design minimalist și experiență utilizator
+
